@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+    <pattern>HELLO</pattern>
+    <template>
+        Hello, World!
+    </template>
+</category>
+<category>
+    <pattern>NurseL</pattern>
+    <template>Go on to the next page</template>
+</category>
+<category>
+    <pattern>FOOD *</pattern>
+    <template>I love to eat that as well.</template>
+</category>
+
+</aiml>
